@@ -23,6 +23,6 @@ Select Subjects You Want To Download, and you are good to go
 
 Minor BUG:
 
--[ ] When password is wrong script doesn't respond.
+- [ ] When password is wrong script doesn't respond.
 
 Pull Requests are welcomed!! :D
