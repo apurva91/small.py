@@ -1,28 +1,8 @@
-# Moodle Downloader
-This repository helps to donwload the entire course material of all enrolled courses from moodle
+# Small.py
+This repository contains small python scripts
 
-This Script Runs on Python v3.x.x
+These scripts runs on python v3.x.x
 
-You will need to install requests
-
-```
-pip3 install requests
-```
-
-To run this code:
-
-```
-git clone https://github.com/apurva91/moodle-downloader.git
-cd moodle-downloader
-python3 main.py
-```
-
-Enter Your Username and Password when asked.
-
-Select Subjects You Want To Download, and you are good to go
-
-Minor BUG:
-
-- [ ] When password is wrong script doesn't respond.
-
-Pull Requests are welcomed!! :D
+ - [Moodle Downloader](https://github.com/apurva91/small.py/moodle-downloader)
+ - [Text On Image Adder](https://github.com/apurva91/small.py/text-on-image-adder)
+ - [Watermark Adder](https://github.com/apurva91/small.py/watermark-adder)
